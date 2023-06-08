@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
-Sitemap: https://borobudursafaritour.my.id/sitemap.xml
+sitemap: https://borobudursafaritour.my.id/sitemap.xml
