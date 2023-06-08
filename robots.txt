@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://borobudursafaritour.my.id/sitemap.xml
