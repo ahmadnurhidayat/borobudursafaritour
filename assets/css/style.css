@@ -638,6 +638,32 @@ body { background: var(--white); }
 .package .btn { margin-inline: auto; }
 
 
+/*-----------------------------------*\
+ * #ADD-ONS
+\*-----------------------------------*/
+
+.box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+  width: 700px;
+  height: 80px;
+  border: 1px solid black;
+  border-radius: 15px;
+  padding: 20px;
+
+}
+
+.box h3 {
+  position: relative;
+  margin-left: 2rem;
+}
+
+.box p {
+  position: relative;
+  margin-right: 2rem;
+}
 
 
 
